@@ -1,7 +1,9 @@
 export default function Todos() {
   return (
-    <div>
-      <h1>Todos</h1>
-    </div>
+    <ul>
+      <li>Learn React</li>
+      <li>Learn TypeScript</li>
+      <li>Learn Necko</li>
+    </ul>
   );
 }
